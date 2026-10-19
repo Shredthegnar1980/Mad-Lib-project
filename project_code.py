@@ -1,0 +1,2 @@
+adjective = input("adjective: ")
+verb = 
